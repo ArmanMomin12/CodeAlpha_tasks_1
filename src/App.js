@@ -83,7 +83,7 @@ function App() {
   <h3>Result: </h3>
   <div class="card-footer text-body-secondary" id='output'>
     <p id='ages'>Your Age: {age.years} years, {age.months} months, {age.days} days</p>
-    <p>{massage}</p>
+    <p id='mass'>{massage}</p>
   </div>
 </div>
 

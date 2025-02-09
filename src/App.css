@@ -218,3 +218,7 @@ button:hover {
 #ages:hover{
   box-shadow: #333;
 }
+
+#mass{
+  color: #282c34;
+}
